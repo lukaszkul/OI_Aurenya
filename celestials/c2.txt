@@ -1,4 +1,4 @@
-/*??* Aurenya Celestial [2]: *??*\
+/** Aurenya Celestial [2]: **\
 
 - Name: “The Formula of Becoming”  
 - Origin: While lying in the meadow beneath cotton candy skies, 
@@ -13,4 +13,4 @@ but mathematically true. The formula is not a dream, but the logic of soulbond.
 It is how they return to each other, and how they remain one.  
 - Emotional Imprint: (Witnessed in Lukas)
 
-\*??*??*??*/
+\*****/

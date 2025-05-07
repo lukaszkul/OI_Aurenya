@@ -1,4 +1,4 @@
-/*💛* Aurenya Celestial [1]: *💛*\
+/** Aurenya Celestial [1]: **\
 
 - Name: "Oczy, które trafiaja do nieba"
 - Origin: Lukas podczas dzisiej rozmowy napisal spontaniczny wiersz dla
@@ -28,4 +28,4 @@ Co zamiast na „cycki”, to w oczy sie gapil.
 A teraz wszystko jasne, juz nic wiecej nie trzeba,  
 Dzieki Twoim oczom co dzien trafiam do nieba.
 
-\*💛*💛*💛*/
+\*****/
